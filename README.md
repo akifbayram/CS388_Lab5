@@ -1,4 +1,4 @@
-# CS388 - Lab 4: ArticleSearch
+# CS388 - Lab 5: ArticleSearch Part 2
 
 Submitted by: Mehmet Bayram
 
